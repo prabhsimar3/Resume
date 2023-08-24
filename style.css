@@ -1,0 +1,22 @@
+header{
+
+    font-size: 14px;
+    font-family: monospace;
+    text-align: center;
+    background-color: aquamarine;
+    padding: 20px;
+    margin: 20px;
+    border-radius: 20px;
+}
+
+table{
+
+    border: 5px solid;
+    border-color: rgb(163, 163, 189);
+}
+
+.table1
+{
+    background-color: blueviolet;
+}
+
